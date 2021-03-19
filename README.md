@@ -25,4 +25,7 @@ This project requires us to showcase our skills and talents by creating our port
 
 ##### Link to Deployed Application
 
+https://macquarts.github.io/Sherine-Portfoilo.github.io/
+
+
 ######Landing Page
