@@ -30,4 +30,4 @@ https://macquarts.github.io/Sherine-Portfoilo.github.io/
 
 ######  Landing Page
 
-<img width="385" alt="Screen Shot 2021-03-19 at 3 56 02 pm" src="https://user-images.githubusercontent.com/75565115/111896285-72ed3900-8a53-11eb-93cb-dec161d01ef9.png">
+<img width="385" alt="Screen Shot 2021-03-19 at 3 56 02 pm" src="https://user-images.githubusercontent.com/75565115/111896306-a92ab880-8a53-11eb-89d6-6497e0e5d9b5.png">
